@@ -1,0 +1,11 @@
+﻿/* ----------------------
+* Name : Recent Post Without Thumbnail CSS
+* Ver : 1.0
+* Date : Feb, 26th 2017
+* Design : Close Art (http://closeart-id.blogspot.com/)
+------------------------- */
+.rcpost-title li{list-style:none;margin:0;padding:0.5em 0;border-bottom:1px solid #DDD}
+.rcpost-title li a{color:#333;font-size:14px;font-weight:500}
+.rcpost-title li a:hover{color:#333;text-decoration:underline}
+.rcpost-more,.button-more{display:block;color:#FFF!important;background:#00ADFF;padding:8px 10px;margin-top:10px;border-radius:3px;text-align:center;font-weight:400}
+.rcpost-more:hover,.button-more:hover{background:#0A6AB6}
